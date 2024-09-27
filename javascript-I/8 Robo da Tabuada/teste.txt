@@ -1,1 +1,2 @@
-testando a criação de uma develop
+testando a criação de uma develop...
+testando agora a criação de uma feature, para garantir uma melhor organização. 
